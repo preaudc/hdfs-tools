@@ -1,0 +1,204 @@
+32796587 files and directories, 16855338 blocks = 49651925 total
+Live Datanodes: 27
+Dead Datanodes: 0
+Metasave: Blocks waiting for replication: 1566836
+/user/id3-team/bidder/choozen/optimizedBids/de/2020/202006/20200624/part-00000-b3116c48-dd86-474f-89a5-6f97d041f7c7.c000.gz.parquet: blk_1610615166_537885044 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id6-team/vpl/vplModelWithPrior/se/2022/202211/20221104/stages/00_strIdx_87187a9fe627/metadata/part-00000: blk_2147487385_1075226750 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.35:50010 :  10.76.98.235:50010(decommissioned) : 
+/user/id5-team/logs/budget/ro/2020/202002/20200203/budget_2020-02-03_07-03-49/part-00000-eec7af44-12b7-4003-a254-70f5e7d51070-c000.json.gz: blk_1543507616_470769269 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id6-team/vpl/vplModelWithPrior/sg/2022/202211/20221104/stages/04_strIdx_91047c36b159/data/part-00000-22125a9b-e587-4313-a9fd-4c9882b5a32b-c000.gz.parquet: blk_2147488807_1075228172 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.35:50010 :  10.76.98.235:50010(decommissioned) : 
+/user/id6-team/bidder/gsa/avgCpcModel/cz/2022/202211/20221104/stages/1_strIdx_525bbac04024/metadata/part-00000: blk_2147488937_1075228302 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/vpl/vplModel/sg/2022/202211/20221104/stages/01_oneHotEncoder_60cc3356b858/metadata/part-00000: blk_2147489205_1075228570 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/flume/impression/ph/current/Impression_20221104_05_flume01_a2.1667538812008.seq: blk_2147489885_1075229250 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/bidder/gsa/bidsUpdater/de/2022/202203/20220303/part-00000-eb5750c2-a501-4414-95fa-2f58ff0bcb4b-c000.json: blk_1946163309_873861479 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/bidder/gsa/clickModel/at/2022/202211/20221104/stages/0_pipeline_b3a29587d1d4/stages/0_customDateDiff_1a60e2169955/metadata/part-00000: blk_2147490308_1075229673 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id4-team/output/monitored/daily/ImpressionResponseTimeReports/ImpressionResponseTimeReport_fr_2020-02-02.csv: blk_1543510684_470772337 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.35:50010 :  10.76.98.235:50010(decommissioned) : 
+/user/id6-team/bidder/bing/clickModel/gr/2022/202211/20221104/stages/0_pipeline_a4c7b541687c/stages/6_strIdx_cfb9267ee656/metadata/part-00000: blk_2147491918_1075231283 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id6-team/vpl/vplModel/uk/2022/202211/20221104/stages/05_oneHotEncoder_ffdedfd72973/metadata/part-00000: blk_2147492068_1075231433 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id6-team/bidder/gsa/clickModel/pt/2022/202211/20221104/stages/0_pipeline_45239d5a9dda/stages/6_strIdx_cd44defc0fd3/metadata/part-00000: blk_2147496171_1075235536 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id2-team/logs/amazon/20210223/mx/2021/202101/20210124/part-00000.gz: blk_1744843620_672123646 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.35:50010 :  10.76.98.235:50010(decommissioned) : 
+/user/id1-team/logs/pla/gsa/raw/product_partition/pt/2021/202106/20210622/part-00000.csv.gz: blk_1811952935_739488088 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/flume/klsAccessLog/br/current/KlsAccessLog_20221104_05_flume02_a3.1667539830238.seq: blk_2147497298_1075236663 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.35:50010 :  10.76.98.235:50010(decommissioned) : 
+/user/id1-team/logs/flume/clickTracking/uk/current/ClickTracking_20221104_05_flume02_a2.1667539834867.seq: blk_2147497395_1075236760 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.35:50010 :  10.76.98.235:50010(decommissioned) : 
+/user/id1-team/logs/flume/clickTracking/dk/current/ClickTracking_20221104_05_flume02_a1.1667539856514.seq: blk_2147497788_1075237153 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/pla/gsa/raw/product_partition/es/2021/202106/20210622/part-00001.csv.gz: blk_1811953557_739488710 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id3-team/bidder/example/exploredBoost/nl/2020/202002/20200203/part-00000-9ba6c148-d6d1-4744-b606-b1b1455ae368.c000.gz.parquet: blk_1543518336_470779989 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/flume/klsAccessLog/br/current/KlsAccessLog_20221104_05_flume02_a2.1667539881991.seq: blk_2147498285_1075237650 (replicas: l: 1 d: 1 c: 1 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/flume/clickTracking/at/current/ClickTracking_20221104_05_flume01_a1.1667539890045.seq: blk_2147498400_1075237765 (replicas: l: 1 d: 1 c: 0 e: 1)  10.76.98.235:50010(decommissioned) :  10.76.99.57:50010 : 
+/user/id1-team/logs/flume/klsAccessLog/ca/current/KlsAccessLog_20221104_05_flume01_a3.1667539890639.seq: blk_2147498422_1075237787 (replicas: l: 1 d: 1 c: 0 e: 2)  10.76.98.235:50010(decommissioned) :  10.76.99.55:50010 : 
+/user/id1-team/logs/flume/salesTracking/us/current/SalesTracking_20221104_05_flume01_a2.1667539918556.seq: blk_2147498914_1075238279 (replicas: l: 1 d: 0 c: 2 e: 0)  10.76.98.35:50010 : 
+/user/id1-team/logs/flume/clickTracking/ch/current/ClickTracking_20221104_05_flume01_a4.1667539944148.seq: blk_2147499248_1075238613 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/google/product_partition/nl/2021/202106/20210622/part-00000-a91d65b3-cbd8-43b6-b0ed-d0de626dcb51-c000.gz.parquet: blk_1811955471_739490726 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.59:50010 : 
+/user/id6-team/traffic-optimizer/cosToSend/sg/2022/202211/20221104/part-00000-ae8b6ecb-0932-4a6f-8d46-e2399b291743-c000.gz.parquet: blk_2147499907_1075239272 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/bidder/bing/predictedAvgCpc/be/2022/202211/20221104/part-00000-1c81287d-3018-4471-a018-d7b1c5dbee51-c000.gz.parquet: blk_2147499931_1075239296 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/traffic-optimizer/bidderParameters/pt/2022/202211/20221104/part-00000-e1a0072d-5769-4d31-acb4-b9c92597591f-c000.gz.parquet: blk_2147499993_1075239358 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.59:50010 : 
+/user/id1-team/logs/google/shopping_performance/it/2021/202106/20210622/part-00001-bdc27abf-c219-4c9d-bfa8-c06861a90ea4-c000.gz.parquet: blk_1811955949_739491204 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.59:50010 : 
+/user/id6-team/bidder/gsa/exploredBoost/no/2022/202211/20221104/part-00000-ff6ef21f-a8ed-4aa6-9fb6-47c62e8c7065-c000.gz.parquet: blk_2147500652_1075240017 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.59:50010 : 
+/user/id6-team/bidder/gsa/clickModel/de/2022/202211/20221104/metadata/part-00000: blk_2147500663_1075240028 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id6-team/traffic-optimizer/detailedReport/ca/2022/202211/20221104/part-00000-da486b2c-f2d1-44a5-a099-201d1db6b1d1-c000.gz.parquet: blk_2147513584_1075252951 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id3-team/bidder/avgCpcModel/gr/2020/202002/20200203/stages/5_linReg_cc5592e63115/data/part-00000-fffea19c-4112-4465-aefb-e69047bdce0d-c000.gz.parquet: blk_1543534775_470796435 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/flume/klsAccessLog/se/current/KlsAccessLog_20221104_06_flume01_a2.1667541603831.seq: blk_2147514774_1075254141 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id3-team/bidder/avgCpcModel/nl/2020/202002/20200203/stages/1_strIdx_1cabfa03d0b0/data/part-00000-0d2708a6-7562-449f-945e-6a26dc8bdedc-c000.gz.parquet: blk_1543535572_470797232 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/flume/lead/fi/current/Lead_20221104_06_flume02_a1.1667541662931.seq: blk_2147516352_1075255719 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id3-team/bidder/example/predictedCtrs/hu/2020/202002/20200203/part-00000-1ca73cad-9a19-4120-8e53-4811dea726ae.c000.gz.parquet: blk_1543537597_470799257 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.35:50010 :  10.76.98.235:50010(decommissioned) : 
+/user/id3-team/bidder/bing/trafficRatio/se/2021/202106/20210624/part-00000-0871745e-c6af-4323-9951-2321b73b8350-c000.gz.parquet: blk_1811973294_739508651 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id3-team/bidder/example/predictedAvgCpc/ro/2020/202002/20200203/part-00000-4002ef7e-8952-4b93-84b5-482bf260e81e.c000.gz.parquet: blk_1543538367_470800027 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.35:50010 :  10.76.98.235:50010(decommissioned) : 
+/user/id4-team/output/monitored/daily/PartnerDiscrepancyReports/PartnerDiscrepancyReport_br_2022-11-03.csv: blk_2147518165_1075257532 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id4-team/output/monitored/daily/ImpressionReportReports/ImpressionReportReport_ie_2022-11-03.csv: blk_2147518775_1075258142 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id2-team/logs/amazon/20200203/nl/2020/202001/20200105/part-00000.gz: blk_1543544186_470805846 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id3-team/bidder/bing/clickModel/es/2021/202106/20210624/stages/0_pipeline_ed16149aa4e3/stages/5_strIdx_2392ad2df19d/metadata/part-00000: blk_1811979937_739515294 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id2-team/logs/amazon/20200203/br/2020/202001/20200118/part-00000.gz: blk_1543544678_470806338 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id2-team/logs/amazon/20201103/es/2020/202010/20201023/part-00000.gz: blk_1677762477_605037134 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.35:50010 :  10.76.98.235:50010(decommissioned) : 
+/user/id2-team/logs/amazon/20201103/es/2020/202010/20201014/part-00000.gz: blk_1677762863_605037520 (replicas: l: 1 d: 0 c: 0 e: 0)  10.76.98.35:50010 : 
+/user/id6-team/bidder/bing/avgCpcModel/gr/2022/202202/20220222/stages/1_strIdx_d9f6d5eb9d0c/data/part-00000-96d405ca-1bd3-42e5-a411-a23e7a173a88-c000.gz.parquet: blk_1937747487_865443130 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/offersWithLeads/dk/2022/202208/20220808/part-00025-8b732a7f-fb61-43a6-9b6e-533a349f2c26-c000.gz.parquet: blk_2071964020_999689744 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/bidder/bing/clickModel/es/2022/202208/20220820/stages/0_pipeline_b2b2fb145a36/stages/1_customStringCast_c99be98895a0/metadata/part-00000: blk_2080350528_1008077209 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/salesTrackingConsolidatedError/ch/2021/202106/20210623/part-00000-142ba155-9e29-411f-af74-79d3297ea067-c000.gz.parquet: blk_1811908005_739442852 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/id2-team/logs/amazon/20210113/es/2021/202101/20210104/part-00000.gz: blk_1719632754_646909326 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/bidder/gsa/clickModel/nl/2022/202203/20220303/stages/1_pipeline_906755899d93/metadata/part-00000: blk_1946124690_873822848 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id3-team/bidder/impressionsModel/uk/2018/201811/20181104/stages/01_customOperation_fc13d6d16aae/metadata/part-00000: blk_1342144783_269355293 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/id6-team/bidder/gsa/clickModel/sk/2022/202203/20220303/stages/0_pipeline_efdc00c97131/stages/6_strIdx_6a6b3df7187b/data/part-00000-412e9861-97ca-4882-95bb-14d57311c2df-c000.gz.parquet: blk_1946124122_873822280 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/salesTrackingReconciliated/dk/2021/202107/20210711/part-00006-db309bc0-1069-4095-9289-881d960d551c-c000.gz.parquet: blk_1820294882_747872986 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id8-team/sem_lpe/hive-parquet/sem_lpe_keywords/se/2017/201712/20171213/part-r-00067-f16002f6-c886-4eca-a648-01827d1db611.gz.parquet: blk_1249869244_176991334 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id7-team/output/daily/offer_report/hk/2022-01-20/part-00000-0125426c-57fb-4f3d-baf1-350da129293e-c000.gz.parquet: blk_1912569224_840255272 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/offersWithLeads/my/2022/202208/20220808/part-00095-9ba93803-729b-4779-95b5-ffee72b2ab47-c000.gz.parquet: blk_2071952635_999678357 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/id5-team/logs/budget/es/2020/202004/20200410/budget_2020-04-10_11-02-53/part-00000-8ade9b09-9b30-4d90-a914-ed680e568328-c000.json.gz: blk_1577009858_504274434 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id1-team/logs/lead/sk/2020/202008/20200831/part-00000.gz: blk_1644116903_571391053 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/bidder/gsa/avgCpcModel/be/2022/202209/20220928/stages/5_linReg_9aeb8014fdbc/metadata/part-00000: blk_2113878633_1041614149 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id7-team/output/daily/audit_report/be/2021-06-04/part-00008-42fee530-c80f-4b6d-a46b-8133356c333e-c000.gz.parquet: blk_1803475145_730956834 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/id4-team/.sparkStaging/application_1562066199443_732916/py4j-0.10.7-src.zip: blk_1509873629_437124267 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/tmp/hadoop-yarn/staging/history/done_intermediate/hbase/job_1645169792969_266700_conf.xml: blk_1954468814_882169996 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/offersWithLeads/ae/2022/202206/20220606/part-00093-cf3da0fd-164b-46a6-afe4-eb139f6ea1dd-c000.gz.parquet: blk_2021576356_949290862 (replicas: l: 0 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) : 
+/user/id3-team/bidder/xgboostModel/at/2020/202004/20200410/metadata/part-00000: blk_1576974817_504239393 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id8-team/sem_lpe/hive-parquet/sem_lpe_keywords/pt/2017/201708/20170804/part-r-00008-a9e404ee-2bef-4416-8b84-8ab0a2947e65.gz.parquet: blk_1216261338_143261113 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/product/us/month=2021-12/merchant_id=100527786/part-00000-310db26f-4b5f-44f0-b515-15f44d39ffc1.c000.csv: blk_1920896338_848584004 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/id3-team/output/monitored/daily/googleDiscrepancyReports/fi/ciao/2021/2021-05/GoogleDiscrepancyReport_fi_2021-05-19/part-00000-79ee0d42-b923-409b-b3b2-01224cc5d1cf-c000.gz.parquet: blk_1795066206_722507111 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/user1/save/user_kookel_logs_flume_tradetracker/nl/2022/202201/20220120/tradetracker20220120_17_a3.1642698331355.seq: blk_1912506517_840192547 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/id3-team/bidder/impressionsModel/it/2020/202007/20200728/stages/07_strIdx_00849137244c/data/part-00000-ba78a8b7-5b4a-4b9d-8163-b21e58da485b-c000.gz.parquet: blk_1627293041_554566965 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/id5-team/statistics/category/de/month=2021-05/merchant_id=100522640/part-00000-c714ac18-214a-4705-ac65-ecbb51e49106.c000.csv: blk_1828617856_756241985 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/id5-team/statistics/category/de/month=2021-05/merchant_id=100519818/part-00000-c714ac18-214a-4705-ac65-ecbb51e49106.c000.csv: blk_1828617793_756241922 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/category/de/month=2021-05/merchant_id=100518618/part-00000-c714ac18-214a-4705-ac65-ecbb51e49106.c000.csv: blk_1828617751_756241880 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/id5-team/statistics/product/de/month=2021-05/merchant_id=12929713/part-00000-5f635cb4-6024-4831-9bc2-3ddf03dba5c1.c000.csv: blk_1828614339_756238468 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/logs/cpc/no/2022/202202/20220221/part-00000.gz: blk_1946054505_873752645 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/category/fr/month=2021-04/merchant_id=15802513/part-00000-c2d3862b-407b-4101-b34b-9a0945161f25.c000.csv: blk_1828597761_756221788 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/vpl/vplDetails/kr/2022/202206/20220629/part-00000-d314577f-bd60-4f60-a118-ab971f63ed24-c000.gz.parquet: blk_2038312508_966028969 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id6-team/bidder/gsa/clickModel/no/2022/202205/20220528/stages/0_pipeline_169352101f8a/stages/4_strIdx_ca76398e1869/data/part-00000-e6853f65-4483-4e50-aa1b-41cb6b1ba502-c000.gz.parquet: blk_2013146090_940858317 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/category/nl/month=2021-05/merchant_id=100502677/part-00000-8bd03cff-5e47-4b42-a0c7-dae9ad1f1e6e.c000.csv: blk_1828596191_756220218 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/product/br/month=2021-04/merchant_id=100507148/part-00000-ee2c2ec8-5665-4ce4-88e7-a22db754d37e.c000.csv: blk_1828595954_756219981 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/category/nl/month=2021-05/merchant_id=100500091/part-00000-8bd03cff-5e47-4b42-a0c7-dae9ad1f1e6e.c000.csv: blk_1828595906_756219933 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id8-team/output/Bidder/Res_model/no/1661724602/no_1661724602_3_report.csv: blk_1249779552_176901036 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/category/nl/month=2021-04/merchant_id=100519894/part-00000-8bd03cff-5e47-4b42-a0c7-dae9ad1f1e6e.c000.csv: blk_1828593040_756217067 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/product/uk/month=2021-05/merchant_id=100498400/part-00000-f06f3f55-350e-44b1-a404-33928cb62331.c000.csv: blk_1828592921_756216948 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/user1/save/user_leguide_logs_sales/es/2017/201709/20170906/part-r-00000-d0a27fec-189b-4f15-b97f-6317f91b2979.gz.parquet: blk_1224613143_151639518 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id3-team/bidder/bing/clickModel/at/2021/202112/20211203/stages/0_pipeline_d600315f212b/stages/4_strIdx_377a47501bde/metadata/part-00000: blk_1887312962_814989548 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/category/it/month=2021-05/merchant_id=100477710/part-00000-3d1a0dd3-aaff-4ab7-b94a-9d8e80887a77.c000.csv: blk_1828592527_756216554 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/product/pt/month=2021-05/merchant_id=15014113/part-00000-920d2844-edf6-4d55-8e10-0f54c5ae0ec2.c000.csv: blk_1828588144_756212171 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/category/uk/month=2021-04/merchant_id=100506198/part-00000-dbd09254-bbe9-472f-96ad-5d9d6ce17585.c000.csv: blk_1828584172_756208199 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id2-team/output/monitored/daily/offerPerformance/nl/2020/202002/offers-leads_OTTO_100060713_2020-02-02.csv: blk_1543371302_470632944 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id8-team/sem_lpe/hive-parquet/sem_lpe_keywords/pt/2016/201611/20161119/part-r-00172-9010ac4c-aa74-4271-b1a5-d32399783797.gz.parquet: blk_1157494090_84261613 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/product/nl/month=2021-04/merchant_id=100478553/part-00000-85b63c43-0d70-4fa0-aba6-84acede92e30.c000.csv: blk_1828582699_756206726 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/product/fi/month=2021-05/merchant_id=100512021/part-00000-41b7f8a3-3a43-4c1f-97cf-4d4b1b5d55e3.c000.csv: blk_1828576684_756200711 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id3-team/bidder/avgCpcModel/gr/2019/201912/20191206/stages/2_oneHot_fac03c0f4854/metadata/part-00000: blk_1509808375_437059013 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id2-team/output/monitored/daily/google/analytics_report/be/2022/202209/20220926/part-00000-dd1b76ec-4e1b-44f2-a5c3-71ba4d0e1499-c000.gz.parquet: blk_2113786241_1041521734 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id5-team/statistics/product/hk/month=2021-04/merchant_id=100518957/part-00000-b83996c9-f6f6-4c54-8185-40681c853219.c000.csv: blk_1828573348_756197375 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id3-team/bidder/avgCpcModel/be/2020/202008/20200814/metadata/part-00000: blk_1635635108_562909081 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.66:50010 : 
+/user/id2-team/logs/amazon/20220506/it/2022/202205/20220503/part-00000.gz: blk_1996344837_924053036 (replicas: l: 1 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 : 
+/user/id3-team/bidder/example/predictedMargin/no/2018/201811/20181104/part-00000-1b19aec1-3ed5-4f8d-b47a-6b89a2201273-c000.gz.parquet: blk_1342177450_269387960 (replicas: l: 2 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.35:50010 :  10.76.98.236:50010 : 
+/user/id3-team/bidder/cos/de/2020/202002/20200203/part-00000-a73462c3-6f35-48ea-87ed-54ceb46b2d19-c000.gz.parquet: blk_1543504042_470765695 (replicas: l: 2 d: 0 c: 0 e: 0)  10.76.98.167:50010 :  10.76.98.239:50010 : 
+/user/id3-team/bidder/choozen/trainInput/pl/2020/202006/20200624/part-00000-a1fa8772-b77b-459b-8085-1666ff62a9bb.c000.gz.parquet: blk_1610612937_537882815 (replicas: l: 2 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.58:50010 :  10.76.99.21:50010 : 
+/user/id1-team/logs/flume/lead/uk/current/Lead_20221104_05_flume02_a3.1667538171513.seq: blk_2147483866_1075223231 (replicas: l: 2 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.167:50010 :  10.76.99.59:50010 : 
+/user/id3-team/bidder/example/bidsUpdater/ie/2018/201811/20181104/report.json: blk_1342177507_269388017 (replicas: l: 2 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.98.239:50010 :  10.76.98.245:50010 : 
+/user/id2-team/logs/amazon/20210223/it/2021/202101/20210124/part-00000.gz: blk_1744830696_672110722 (replicas: l: 2 d: 0 c: 0 e: 0)  10.76.98.228:50010 :  10.76.99.17:50010 : 
+/user/id1-team/logs/flume/clickTracking/cz/current/ClickTracking_20221104_05_flume02_a1.1667538172648.seq: blk_2147483885_1075223250 (replicas: l: 2 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.195:50010 :  10.76.99.59:50010 : 
+/user/id4-team/output/monitored/daily/WaitingPageResponseTimeReports/WaitingPageResponseTimeReport_kr_2022-08-19.csv: blk_2080375025_1008101708 (replicas: l: 2 d: 0 c: 0 e: 0)  10.76.98.236:50010 :  10.76.99.17:50010 : 
+/user/id3-team/bidder/example/predictedAvgCpc/fi/2020/202006/20200624/part-00000-fa13bcbb-5016-41b2-ac0f-92c3dd4f364d.c000.gz.parquet: blk_1610613013_537882891 (replicas: l: 2 d: 1 c: 0 e: 0)  10.76.98.235:50010(decommissioned) :  10.76.99.58:50010 :  10.76.98.245:50010 : 
+/user/id3-team/bidder/example/possibleBids/be/2020/202002/20200203/part-00000-96d76fed-be76-47b5-809f-5cc692d287ea-c000.gz.parquet: blk_1543504159_470765812 (replicas: l: 2 d: 0 c: 0 e: 0)  10.76.99.117:50010 :  10.76.99.59:50010 : 
+Mis-replicated blocks that have been postponed:
+Metasave: Blocks being replicated: 40
+blk_1810904019_738428788 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448343_1074187622 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448344_1074187623 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448322_1074187601 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146447271_1074186550 StartTime: 03:39:10 NumReplicaInProgress: 1
+blk_1810903947_738428716 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1878012772_805686594 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1878011714_805685536 StartTime: 03:39:10 NumReplicaInProgress: 1
+blk_2146448202_1074187481 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448206_1074187485 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448163_1074187442 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448132_1074187411 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1810903814_738428583 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1878012682_805686504 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448110_1074187389 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1878012605_805686427 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1878012557_805686379 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146447971_1074187250 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146447972_1074187251 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1609577061_536846939 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146447962_1074187241 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122147_872820118 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122154_872820125 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122125_872820096 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122126_872820097 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122099_872820070 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122100_872820071 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122107_872820078 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122082_872820053 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122088_872820059 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122093_872820064 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122067_872820038 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1945122077_872820048 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1810904268_738429037 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1810904210_738428979 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448511_1074187790 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448487_1074187766 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448476_1074187755 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_1810904091_738428860 StartTime: 03:39:13 NumReplicaInProgress: 1
+blk_2146448386_1074187665 StartTime: 03:39:13 NumReplicaInProgress: 1
+Metasave: Blocks 21 waiting deletion from 9 datanodes.
+10.76.98.224:50010
+blk_2185666538_1113413711
+10.76.98.35:50010
+blk_2185666538_1113413711
+10.76.99.60:50010
+blk_2185666539_1113413712,blk_2185666430_1113413603
+10.76.98.236:50010
+blk_2183611218_1111358249,blk_2185666454_1113413627,blk_2183611207_1111358238,blk_2185666538_1113413711,blk_2183611210_1111358241
+10.76.99.195:50010
+blk_2185666453_1113413626,blk_2183611244_1111358275
+10.76.99.100:50010
+blk_2183611218_1111358249,blk_2185666562_1113413735,blk_2185666430_1113413603
+10.76.99.66:50010
+blk_2185666427_1113413600,blk_2185666444_1113413617
+10.76.99.13:50010
+blk_2185666580_1113413753,blk_2183611207_1111358238,blk_2185666441_1113413614,blk_2185666444_1113413617
+10.76.98.237:50010
+blk_2185666443_1113413616
+Corrupt Blocks:
+Metasave: Number of datanodes: 27
+10.76.99.55:50010 /rack/default IN 7400621518848(6.73 TB) 4451739879459(4.05 TB) 60.15% 2849322881294(2.59 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 1 blocks to be replicated;
+10.76.99.57:50010 /rack/default IN 7386247827456(6.72 TB) 4986784849138(4.54 TB) 67.51% 2295256248263(2.09 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 2 blocks to be replicated; 2 blocks to be invalidated;
+10.76.99.100:50010 /rack/default IN 7400621518848(6.73 TB) 4481233479005(4.08 TB) 60.55% 2817626370330(2.56 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022 2 blocks to be replicated;
+10.76.99.59:50010 /rack/default IN 7386247827456(6.72 TB) 4269699287676(3.88 TB) 57.81% 3014470935467(2.74 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022 2 blocks to be replicated;
+10.76.98.239:50010 /rack/default IN 11013502820352(10.02 TB) 2860189912806(2.60 TB) 25.97% 7793341072197(7.09 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 1 blocks to be replicated; 3 blocks to be invalidated;
+10.76.99.195:50010 /rack/default IN 7087263899648(6.45 TB) 4549949731810(4.14 TB) 64.20% 2439170765995(2.22 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 2 blocks to be replicated;
+10.76.99.14:50010 /rack/default IN 7377074434048(6.71 TB) 4105037561488(3.73 TB) 55.65% 3167629974328(2.88 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 3 blocks to be invalidated;
+10.76.98.35:50010 /rack/default IN 7400820740096(6.73 TB) 4378064331775(3.98 TB) 59.16% 2918485091074(2.65 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022 2 blocks to be replicated;
+10.76.99.13:50010 /rack/default IN 11013502820352(10.02 TB) 2975833715538(2.71 TB) 27.02% 7675887058175(6.98 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 1 blocks to be replicated;
+10.76.99.17:50010 /rack/default IN 11013502820352(10.02 TB) 2983225711661(2.71 TB) 27.09% 7667875231968(6.97 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:53 UTC 2022 1 blocks to be replicated; 2 blocks to be invalidated;
+10.76.98.228:50010 /rack/default IN 11013502820352(10.02 TB) 2983470382691(2.71 TB) 27.09% 7663708684344(6.97 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 2 blocks to be replicated; 3 blocks to be invalidated;
+10.76.99.58:50010 /rack/default IN 7386253631488(6.72 TB) 4321420583530(3.93 TB) 58.51% 2960757004203(2.69 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:53 UTC 2022 2 blocks to be replicated; 1 blocks to be invalidated;
+10.76.99.21:50010 /rack/default IN 11013502820352(10.02 TB) 2981781562793(2.71 TB) 27.07% 7668615004340(6.97 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022 1 blocks to be replicated; 1 blocks to be invalidated;
+10.76.98.224:50010 /rack/default IN 7377074434048(6.71 TB) 4477132134748(4.07 TB) 60.69% 2799713913875(2.55 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 2 blocks to be replicated;
+10.76.99.117:50010 /rack/default IN 7361252261888(6.70 TB) 4431430747106(4.03 TB) 60.20% 2829239163238(2.57 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 2 blocks to be replicated; 3 blocks to be invalidated;
+10.76.98.167:50010 /rack/default IN 11013502820352(10.02 TB) 3017563199569(2.74 TB) 27.40% 7635625103228(6.94 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022
+10.76.99.66:50010 /rack/default IN 7400621518848(6.73 TB) 4379297028827(3.98 TB) 59.17% 2918963720923(2.65 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022 2 blocks to be replicated;
+10.76.99.15:50010 /rack/default IN 11013502820352(10.02 TB) 2985702346954(2.72 TB) 27.11% 7662904251335(6.97 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022 2 blocks to be replicated;
+10.76.98.235:50010 /rack/default DP 7400820740096(6.73 TB) 3681037784551(3.35 TB) 49.74% 3644000564335(3.31 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022 4 blocks to be replicated;
+10.76.98.245:50010 /rack/default IN 11013502820352(10.02 TB) 2815632091489(2.56 TB) 25.57% 7832457462518(7.12 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022 2 blocks to be replicated;
+10.76.99.60:50010 /rack/default IN 7343972302848(6.68 TB) 4422534361745(4.02 TB) 60.22% 2819557699973(2.56 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022 2 blocks to be replicated;
+10.76.99.227:50010 /rack/default IN 7400621518848(6.73 TB) 4472639104833(4.07 TB) 60.44% 2826954485695(2.57 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022
+10.76.99.7:50010 /rack/default IN 11013502820352(10.02 TB) 2639239672241(2.40 TB) 23.96% 8010874557961(7.29 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 1 blocks to be replicated; 3 blocks to be invalidated;
+10.76.98.237:50010 /rack/default IN 11013502820352(10.02 TB) 2856899552836(2.60 TB) 25.94% 7793503059146(7.09 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022
+10.76.99.56:50010 /rack/default IN 7386247827456(6.72 TB) 4765074084492(4.33 TB) 64.51% 2518251212827(2.29 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022 2 blocks to be replicated;
+10.76.98.236:50010 /rack/default IN 11013502820352(10.02 TB) 2844154825008(2.59 TB) 25.82% 7806483197598(7.10 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:55 UTC 2022 2 blocks to be replicated;
+10.76.98.255:50010 /rack/default IN 11013502820352(10.02 TB) 2614258832291(2.38 TB) 23.74% 8034242996713(7.31 TB) 0(0 B) 0(0 B) 100.00% 0(0 B) Fri Dec 16 16:48:54 UTC 2022

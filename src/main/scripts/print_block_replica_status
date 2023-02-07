@@ -1,0 +1,109 @@
+#!/usr/bin/python3
+
+"""
+Display information on Namenode's primary data structures
+"""
+import argparse
+
+from hdfs_tools import Metasave
+
+def run_block(metasave_path, args):
+    """
+    Run the block sub-command
+
+    Parameters
+    ----------
+    metasave_path:
+        the path to the metasave file
+    args:
+        the script command line arguments
+    """
+    nn_metasave = Metasave.from_block(metasave_path, args)
+    nn_metasave.parse()
+    nn_metasave.display_host_replica_status()
+
+def func_count(metasave_path, args):
+    """
+    Run the count sub-command
+
+    Parameters
+    ----------
+    metasave_path:
+        the path to the metasave file
+    args:
+        the script command line arguments
+    """
+    nn_metasave = Metasave.from_count(metasave_path, args)
+    nn_metasave.parse()
+    nn_metasave.display_replica_count_by_host()
+
+def main():
+    """
+    Main program loop
+    """
+    args = parse_args()
+    metasave_path = (
+        args.metasave_path if args.metasave_path is not None
+        else "/opt/hadoop/logs/hadoop-hdfs-metasave.log"
+    )
+    args.func(metasave_path, args)
+
+def parse_args():
+    """
+    Parse the program command-line options and arguments
+    """
+    parser = argparse.ArgumentParser(
+        description="Get information on Namenode's primary data structures.",
+        allow_abbrev=False
+    )
+    parser.add_argument(
+        '-m', '--metasave-path',
+        action='store',
+        help='the path to the metasave file'
+    )
+    subparsers = parser.add_subparsers()
+    parser_block = subparsers.add_parser('block', help='print blocks status')
+    group = parser_block.add_mutually_exclusive_group(required=True)
+    group.add_argument(
+        '-n', '--no-live-replicas',
+        metavar='DATANODE',
+        action='store',
+        help='print blocks with no live replicas on decommissioned datanode'
+    )
+    group.add_argument(
+        '-u', '--under-replicated',
+        metavar='DATANODE',
+        action='store',
+        help='print under replicated blocks on decommissioned datanode'
+    )
+    parser_block.set_defaults(func = run_block)
+    parser_count = subparsers.add_parser('count', help='print blocks count')
+    parser_count.add_argument(
+        '-l', '--live',
+        type=int,
+        action='append',
+        help='the live replicas count to match'
+    )
+    parser_count.add_argument(
+        '-d', '--decommissioned',
+        type=int,
+        action='append',
+        help='the decommissioned replicas count to match'
+    )
+    parser_count.add_argument(
+        '-c', '--corrupt',
+        type=int,
+        action='append',
+        help='the corrupt replicas count to match'
+    )
+    parser_count.add_argument(
+        '-e', '--excess',
+        type=int,
+        action='append',
+        help='the excess replicas count to match'
+    )
+    parser_count.set_defaults(func = func_count)
+    return parser.parse_args()
+
+if __name__ == "__main__":
+    main()

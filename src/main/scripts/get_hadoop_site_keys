@@ -1,0 +1,39 @@
+#!/usr/bin/python3
+
+"""
+Get keys from hadoop site XML files
+Usage:
+    HOSTNAME=dev-spark-01.example.com
+    mkdir -p ${HOSTNAME%%.*}
+    for f in core-site.xml hdfs-site.xml mapred-site.xml yarn-site.xml; do ./get_hadoop_site_keys <(ssh $HOSTNAME cat /opt/hadoop/conf/$f) > ${HOSTNAME%%.*}/$f; done
+"""
+import argparse
+import xml.etree.ElementTree as ET
+
+def main():
+    """
+    Main program loop
+    """
+    args = parse_args()
+    root_node = ET.parse(args.xml_path).getroot()
+    hdfs_keyvals = []
+    for tag in root_node.findall('property'):
+        name = tag.find('name').text
+        value = tag.find('value').text
+        hdfs_keyvals.append(f"{name}: {value}")
+    for hkv in sorted(hdfs_keyvals):
+        print(hkv)
+
+def parse_args():
+    """
+    Parse the program command-line options and arguments
+    """
+    parser = argparse.ArgumentParser(
+        description='Get keys from hadoop site XML files.',
+        allow_abbrev=False
+    )
+    parser.add_argument('xml_path', help='the path to the hadoop site XML file')
+    return parser.parse_args()
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,40 @@
+# IDEs and editors
+.idea/
+*.iml
+*.idea
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+/target
+**/*.pyc
+.venv
+__pycache__
+build/
+dist/
+*.egg-info/
+*.pyc
